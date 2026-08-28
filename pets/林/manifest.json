@@ -1,0 +1,61 @@
+{
+  "fps": 20,
+  "size": 1000,
+  "states": {
+    "interact": {
+      "duration": 2660,
+      "count": 53,
+      "bbox": [
+        264,
+        406,
+        630,
+        816
+      ],
+      "source": "林-求知的魔法-基建-Interact-x1.webm"
+    },
+    "move": {
+      "duration": 2633,
+      "count": 53,
+      "bbox": [
+        296,
+        408,
+        624,
+        814
+      ],
+      "source": "林-求知的魔法-基建-Move-x1.webm"
+    },
+    "idle": {
+      "duration": 3947,
+      "count": 79,
+      "bbox": [
+        296,
+        408,
+        624,
+        812
+      ],
+      "source": "林-求知的魔法-基建-Relax-x1.webm"
+    },
+    "sit": {
+      "duration": 3186,
+      "count": 64,
+      "bbox": [
+        232,
+        536,
+        654,
+        904
+      ],
+      "source": "林-求知的魔法-基建-Sit-x1.webm"
+    },
+    "sleep": {
+      "duration": 1500,
+      "count": 30,
+      "bbox": [
+        264,
+        604,
+        708,
+        836
+      ],
+      "source": "林-求知的魔法-基建-Sleep-x1.webm"
+    }
+  }
+}
