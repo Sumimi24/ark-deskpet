@@ -1,0 +1,61 @@
+{
+  "fps": 20,
+  "size": 1000,
+  "states": {
+    "interact": {
+      "duration": 2366,
+      "count": 47,
+      "bbox": [
+        264,
+        370,
+        636,
+        808
+      ],
+      "source": "塑心-无我唯识-基建-Interact-x1.webm"
+    },
+    "move": {
+      "duration": 969,
+      "count": 19,
+      "bbox": [
+        268,
+        370,
+        640,
+        804
+      ],
+      "source": "塑心-无我唯识-基建-Move-x1.webm"
+    },
+    "idle": {
+      "duration": 2635,
+      "count": 53,
+      "bbox": [
+        268,
+        372,
+        640,
+        810
+      ],
+      "source": "塑心-无我唯识-基建-Relax-x1.webm"
+    },
+    "sit": {
+      "duration": 3302,
+      "count": 66,
+      "bbox": [
+        270,
+        498,
+        638,
+        936
+      ],
+      "source": "塑心-无我唯识-基建-Sit-x1.webm"
+    },
+    "sleep": {
+      "duration": 1650,
+      "count": 33,
+      "bbox": [
+        254,
+        458,
+        632,
+        804
+      ],
+      "source": "塑心-无我唯识-基建-Sleep-x1.webm"
+    }
+  }
+}
