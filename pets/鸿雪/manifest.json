@@ -1,0 +1,61 @@
+{
+  "fps": 20,
+  "size": 1000,
+  "states": {
+    "interact": {
+      "duration": 4636,
+      "count": 93,
+      "bbox": [
+        306,
+        370,
+        632,
+        802
+      ],
+      "source": "鸿雪-行梦侧畔-基建-Interact-x1.webm"
+    },
+    "move": {
+      "duration": 3435,
+      "count": 69,
+      "bbox": [
+        334,
+        380,
+        626,
+        802
+      ],
+      "source": "鸿雪-行梦侧畔-基建-Move-x1.webm"
+    },
+    "idle": {
+      "duration": 7236,
+      "count": 145,
+      "bbox": [
+        330,
+        372,
+        630,
+        800
+      ],
+      "source": "鸿雪-行梦侧畔-基建-Relax-x1.webm"
+    },
+    "sit": {
+      "duration": 3285,
+      "count": 66,
+      "bbox": [
+        342,
+        512,
+        632,
+        894
+      ],
+      "source": "鸿雪-行梦侧畔-基建-Sit-x1.webm"
+    },
+    "sleep": {
+      "duration": 5473,
+      "count": 109,
+      "bbox": [
+        272,
+        502,
+        614,
+        834
+      ],
+      "source": "鸿雪-行梦侧畔-基建-Sleep-x1.webm"
+    }
+  }
+}
