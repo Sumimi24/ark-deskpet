@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+tests/__pycache__/
+work/
+settings.json
+ai_history.json
+pet_error.log
+pet.pid
+watcher.pid
+tray.pid
+*.flag
+*.tmp
