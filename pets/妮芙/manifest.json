@@ -1,0 +1,61 @@
+{
+  "fps": 20,
+  "size": 1000,
+  "states": {
+    "interact": {
+      "duration": 2901,
+      "count": 58,
+      "bbox": [
+        252,
+        356,
+        640,
+        800
+      ],
+      "source": "妮芙-甜美配方-基建-Interact-x1.webm"
+    },
+    "move": {
+      "duration": 2369,
+      "count": 47,
+      "bbox": [
+        254,
+        358,
+        638,
+        800
+      ],
+      "source": "妮芙-甜美配方-基建-Move-x1.webm"
+    },
+    "idle": {
+      "duration": 3984,
+      "count": 80,
+      "bbox": [
+        252,
+        356,
+        638,
+        800
+      ],
+      "source": "妮芙-甜美配方-基建-Relax-x1.webm"
+    },
+    "sit": {
+      "duration": 2299,
+      "count": 46,
+      "bbox": [
+        272,
+        486,
+        650,
+        914
+      ],
+      "source": "妮芙-甜美配方-基建-Sit-x1.webm"
+    },
+    "sleep": {
+      "duration": 2634,
+      "count": 53,
+      "bbox": [
+        284,
+        452,
+        804,
+        822
+      ],
+      "source": "妮芙-甜美配方-基建-Sleep-x1.webm"
+    }
+  }
+}
