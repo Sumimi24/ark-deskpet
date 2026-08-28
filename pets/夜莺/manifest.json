@@ -1,0 +1,61 @@
+{
+  "fps": 20,
+  "size": 1000,
+  "states": {
+    "interact": {
+      "duration": 3968,
+      "count": 79,
+      "bbox": [
+        256,
+        396,
+        674,
+        800
+      ],
+      "source": "夜莺-流辉-基建-Interact-x1.webm"
+    },
+    "move": {
+      "duration": 1283,
+      "count": 26,
+      "bbox": [
+        302,
+        398,
+        664,
+        802
+      ],
+      "source": "夜莺-流辉-基建-Move-x1.webm"
+    },
+    "idle": {
+      "duration": 3951,
+      "count": 79,
+      "bbox": [
+        312,
+        400,
+        678,
+        804
+      ],
+      "source": "夜莺-流辉-基建-Relax-x1.webm"
+    },
+    "sit": {
+      "duration": 3931,
+      "count": 79,
+      "bbox": [
+        312,
+        530,
+        676,
+        934
+      ],
+      "source": "夜莺-流辉-基建-Sit-x1.webm"
+    },
+    "sleep": {
+      "duration": 2622,
+      "count": 52,
+      "bbox": [
+        258,
+        630,
+        706,
+        812
+      ],
+      "source": "夜莺-流辉-基建-Sleep-x1.webm"
+    }
+  }
+}
