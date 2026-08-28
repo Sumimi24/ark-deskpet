@@ -1,0 +1,61 @@
+{
+  "fps": 20,
+  "size": 1000,
+  "states": {
+    "interact": {
+      "duration": 2465,
+      "count": 49,
+      "bbox": [
+        126,
+        356,
+        794,
+        808
+      ],
+      "source": "焰影苇草-博物-基建-Interact-x1.webm"
+    },
+    "move": {
+      "duration": 1049,
+      "count": 21,
+      "bbox": [
+        254,
+        352,
+        652,
+        804
+      ],
+      "source": "焰影苇草-博物-基建-Move-x1.webm"
+    },
+    "idle": {
+      "duration": 7964,
+      "count": 159,
+      "bbox": [
+        120,
+        336,
+        792,
+        808
+      ],
+      "source": "焰影苇草-博物-基建-Relax-x1.webm"
+    },
+    "sit": {
+      "duration": 5970,
+      "count": 119,
+      "bbox": [
+        240,
+        440,
+        638,
+        908
+      ],
+      "source": "焰影苇草-博物-基建-Sit-x1.webm"
+    },
+    "sleep": {
+      "duration": 5970,
+      "count": 119,
+      "bbox": [
+        288,
+        356,
+        916,
+        814
+      ],
+      "source": "焰影苇草-博物-基建-Sleep-x1.webm"
+    }
+  }
+}
